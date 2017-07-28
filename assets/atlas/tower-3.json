@@ -1,0 +1,15 @@
+{"frames": [
+  {
+		"filename": "base",
+		"frame": {"x":0,"y":33,"w":31,"h":43}
+	},
+        {
+		"filename": "medium",
+		"frame": {"x":45,"y":23,"w":33,"h":53}
+	},
+        {
+		"filename": "hight",
+		"frame": {"x":99,"y":0,"w":40,"h":77}
+	}
+    ]
+}
